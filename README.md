@@ -1,5 +1,5 @@
 # chefdk-docker
-Chef DK Docker with add-on utility scripts to easier to access Chef tools inside the docker
+Chef DK Docker with add-on utility scripts to be easier to access Chef tools inside the docker
 
 # Run (alternative-1)
 ```
