@@ -1,0 +1,21 @@
+-rwxr-xr-x 1 root root    8326 Jul  3 22:14 berks
+-rwxr-xr-x 1 root root    8319 Jul  3 22:14 chef
+-rwxr-xr-x 1 root root    8318 Jul  3 22:14 chef-apply
+-rwxr-xr-x 1 root root    8319 Jul  3 22:14 chef-client
+-rwxr-xr-x 1 root root    8331 Jul  3 22:14 chef-resource-inspector
+-rwxr-xr-x 1 root root    8318 Jul  3 22:14 chef-shell
+-rwxr-xr-x 1 root root    8317 Jul  3 22:14 chef-solo
+-rwxr-xr-x 1 root root    8334 Jul  3 22:14 chef-vault
+-rwxr-xr-x 1 root root    8330 Jul  3 22:14 cookstyle
+-rwxr-xr-x 1 root root    8306 Jul  3 22:14 dco
+-rwxrwxr-x 1 root root 9981564 Jul  3 22:14 delivery
+-rwxr-xr-x 1 root root    8336 Jul  3 22:14 foodcritic
+-rwxr-xr-x 1 root root    8320 Jul  3 22:14 inspec
+-rwxr-xr-x 1 root root    8339 Jul  3 22:14 kitchen
+-rwxr-xr-x 1 root root    8313 Jul  3 22:14 knife
+-rwxr-xr-x 1 root root    8312 Jul  3 22:14 ohai
+-rwxr-xr-x 1 root root    8383 Jul  3 22:14 print_execution_environment
+-rwxr-xr-x 1 root root    8366 Jul  3 22:14 push-apply
+-rwxr-xr-x 1 root root    8368 Jul  3 22:14 pushy-client
+-rwxr-xr-x 1 root root    8377 Jul  3 22:14 pushy-service-manager
+
